@@ -1,0 +1,18 @@
+# Contact PadreGen
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>PadreGen - Contact</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Contattami!</h1>
+       <p class="p-welcome">‌‌‌Telegram : @Metrys_</p>
+       <p class="p-welcome">‌‌‌Discord : Asiatico Pelato#3020</p>
+       <p class="p-welcome">‌‌‌Instagram : @kk1rito</p>
+    </body>
+</html>
+ 
+P.S LASCIA IL MADE BY ASIATICO PELATO#3020, SE LO FAI <3 ( NON COPIA INCOLLARE NEL CODICE)
